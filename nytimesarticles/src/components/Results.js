@@ -22,7 +22,7 @@ const Results= ()=>{
       }, []);
     
       if (loading) {
-        return <p>Data is loading...</p>;
+        return <p data-testid="content">Data is loading...</p>;
       }
     
       return (
