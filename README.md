@@ -1,6 +1,6 @@
 # NY Times Most Popular Articles
 
-This project uses NY Most popular API to pull data using axios and React JS.
+This project uses NY Most popular API to pull data using JS fetch and React JS.
 The project is also unit tested using jest. 
 
 ## How to setup and run the application
